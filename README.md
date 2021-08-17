@@ -26,19 +26,19 @@
     <a href="https://facebook.com/msboffl" target="blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="msboffl"  /></a> 
 </p>
 
-## 📘 My top open source projects
+<!-- ## 📘 My top open source projects -->
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/msboffl/msboffl" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=msboffl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="msboffl-readme-file"></a>
   <a href="https://github.com/msboffl/Custom-JavaScript-Alerts" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=cuda-portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="cuda-portfolio"></a>
   <a href="https://github.com/msboffl/gradient-color-generate" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=altube&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="altube"></a>
  <a href="https://github.com/msboffl/Colour-Code-Generator" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=fashion-ecommerce&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="fashion-ecommerce"></a>
   <a href="https://github.com/msboffl/Hackerrank-Soluttions-in-C" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=jamuna-news&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jamuna-news"></a>
   <a href="https://github.com/msboffl/footer-menu" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=spourmo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="spourmo-psd"></a>
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://github.com/msboffl?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
