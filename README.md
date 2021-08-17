@@ -28,16 +28,16 @@
 
 ## 📘 My top open source projects
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+Repo info cards - https://github.com/anuraghazra/github-readme-stats
+Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats
+<!-- <p align="left">
   <a href="https://github.com/msboffl/msboffl" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=msboffl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="msboffl-readme-file"></a>
   <a href="https://github.com/msboffl/cuda-portfolio" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=cuda-portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="cuda-portfolio"></a>
   <a href="https://github.com/msboffl/altube" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=altube&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="altube"></a>
  <a href="https://github.com/msboffl/fashion-ecommerce" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=fashion-ecommerce&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="fashion-ecommerce"></a>
   <a href="https://github.com/msboffl/jamuna-news" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=jamuna-news&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jamuna-news"></a>
   <a href="https://github.com/msboffl/spourmo" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=spourmo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="spourmo-psd"></a>
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://github.com/msboffl?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
