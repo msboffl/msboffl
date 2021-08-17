@@ -8,6 +8,8 @@
   <a href="https://github.com/msboffl"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=FF0C1B&height=65&lines=Full+Stack+Developer+from+India;1.5+%2B++Years+of+Coding+Experience+;Self+Taught+Programmer;Always+Learnig+New+Technologies)](https://git.io/typing-svg)
+
 <!-- Badges template - https://github.com/badges/shields -->
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
