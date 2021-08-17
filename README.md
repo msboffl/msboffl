@@ -26,10 +26,10 @@
     <a href="https://facebook.com/msboffl" target="blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="msboffl"  /></a> 
 </p>
 
-## 📘 My top open source projects
+<!-- ## 📘 My top open source projects -->
 
-Repo info cards - https://github.com/anuraghazra/github-readme-stats
-Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <!-- <p align="left">
   <a href="https://github.com/msboffl/msboffl" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=msboffl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="msboffl-readme-file"></a>
   <a href="https://github.com/msboffl/cuda-portfolio" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=msboffl&repo=cuda-portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="cuda-portfolio"></a>
@@ -82,4 +82,4 @@ Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats
 </a>
 <p></p>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/msboffl"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=msboffl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/msboffl"><img alt="Mareedu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=msboffl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
