@@ -50,23 +50,22 @@
 </table>
 
 
-<!-- ## 🔥 GitHub Readme Streak Stats
+## 🔥 GitHub Readme Streak Stats
 
 <div>
   <img width="100%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=msboffl&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true">
-</div> -->
+</div>
 
 <!-- Hacktoberfest -->
 ## Hacktoberfest Badges
 
 [![@msboffl's Holopin board](https://holopin.me/msboffl)](https://holopin.io/@msboffl)
 
-<h2> Snake eaten contribution graph </h2>
-
+<!-- <h2> Snake eaten contribution graph </h2>
 
 <p align="center">
   <img src="https://github.com/msboffl/msboffl/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
 
 
 <!-- Support -->
