@@ -1,16 +1,18 @@
 import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
-import { Geist, Geist_Mono } from "next/font/google";
+import localFont from "next/font/local";
+
 import "./globals.css";
 
-const geist = Geist({
-  subsets: ["latin"],
-  variable: "--font-geist",
+const geistSans = localFont({
+  src: "./fonts/GeistVF.woff",
+  variable: "--font-geist-sans",
+  weight: "100 400 600 900",
 });
-
-const geist_mono = Geist_Mono({
-  subsets: ["latin"],
+const geistMono = localFont({
+  src: "./fonts/GeistMonoVF.woff",
   variable: "--font-geist-mono",
+  weight: "100 400 600 900",
 });
 
 export const metadata: Metadata = {
@@ -25,7 +27,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${geist_mono.variable} ${geist.variable} font-sans `}>
+      <body
+        className={`${geistMono.variable} ${geistSans.variable} font-serif`}
+      >
         <ThemeProvider attribute={"class"}>{children}</ThemeProvider>
       </body>
     </html>
