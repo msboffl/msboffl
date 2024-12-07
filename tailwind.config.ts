@@ -59,8 +59,8 @@ module.exports = {
       // },
       // ========== Shadcn Setup (End) ==========
       fontFamily: {
-        sans: ["var(--font-geist-mono)"],
-        serif: ["var(--font-geist)"],
+        sans: ["var(--font-geist-sans)"],
+        serif: ["var(--font-geist-mono)"],
       },
       colors: {
         red: {

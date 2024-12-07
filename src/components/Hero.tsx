@@ -3,11 +3,12 @@ import msboffl from "/public/mareedu.jpeg";
 import { TbDownload } from "react-icons/tb";
 import { JobRoles } from "./Roles";
 import { SocialIcons } from "./SocialIcons";
+import { MovingBorderButton } from "./ui/moving-border";
 
 export function Hero() {
   return (
     <>
-      <section className="relative flex flex-col items-center justify-between px-8 py-3 border-b lg:border-2 border-zinc-500/25 w-screen lg:max-w-6xl xl:max-w-screen-2xl mx-auto left-0 right-0 lg:rounded-2xl bg-zinc-50/50 dark:bg-zinc-950/50 backdrop-blur-sm shadow-transparent">
+      <section className="relative flex flex-col items-center justify-between px-8 py-3 border-b lg:border-2 border-zinc-500/65 w-screen lg:max-w-6xl xl:max-w-screen-2xl mx-auto left-0 right-0 lg:rounded-2xl bg-zinc-50/50 dark:bg-black backdrop-blur-sm shadow-transparent">
         {/* Container with window controls */}
         <div className="relative h-full rounded-lg">
           {/* Window Controls */}
@@ -49,17 +50,25 @@ export function Hero() {
             </div>
 
             {/* Right Section */}
-            <div className="text-left font-mono text-xs md:text-sm lg:text-base">
+            <div className="text-left font-serif text-xs md:text-sm lg:text-base">
               <div className="flex h-full flex-col items-start justify-center rounded-lg p-3 lg:px-12 lg:py-4 dark:text-white">
-                <h5 className="uppercase tracking-[4px]">
-                  Welcome to my world
+                <h5 className="uppercase tracking-[4px] antialiased font-serif text-xl">
+                  Welcome to my world!
                 </h5>
-                <h3 className="flex flex-col font-montserrat text-3xl font-extrabold">
-                  <span>Hi, I’m, Mareedu Saibabu.</span>
-                  <JobRoles />
+                <h3 className="flex flex-col text-6xl font-serif font-extrabold mb-2">
+                  HELLO, I'M, MAREEDU SAIBABU
                 </h3>
-                <h5 className="text-3xl font-bold">Based in India.</h5>
-                <button className="mt-4 flex items-center gap-3 rounded-lg border-2 border-red-650 bg-transparent px-4 py-2 uppercase text-white transition-all duration-300 hover:scale-105 hover:bg-red-650 hover:shadow-lg">
+                <JobRoles />
+                <h5 className="text-5xl font-extrabold my-3">
+                  Based in India.
+                </h5>
+                {/* <MovingBorderButton
+                  borderRadius="1.75rem"
+                  className="bg-white dark:bg-slate-900 text-black dark:text-white border-neutral-200 dark:border-slate-800"
+                >
+                  Get Resume
+                </MovingBorderButton> */}
+                <button className="mt-2 flex items-center gap-3 rounded-lg border-2 border-red-650 bg-transparent px-4 py-2 uppercase text-white transition-all duration-300 hover:scale-105 hover:bg-red-650 hover:shadow-lg">
                   Get Resume
                   <TbDownload size={20} />
                 </button>
