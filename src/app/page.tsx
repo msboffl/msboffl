@@ -1,4 +1,5 @@
 "use client";
+import { Hero } from "@/components/Hero";
 import { Navbar } from "@/components/Navbar";
 import { AuroraBackground } from "@/components/ui/aurora-background";
 import { SparklesCore } from "@/components/ui/sparkles";
@@ -21,7 +22,7 @@ export default function Home() {
           }}
           // className="relative flex flex-col gap-4 items-center justify-center px-4"
         >
-          hello
+          <Hero />
         </motion.div>
       </AuroraBackground>
 
