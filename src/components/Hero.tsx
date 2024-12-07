@@ -3,7 +3,7 @@ import msboffl from "/public/mareedu.jpeg";
 import { TbDownload } from "react-icons/tb";
 import { JobRoles } from "./Roles";
 import { SocialIcons } from "./SocialIcons";
-import { MovingBorderButton } from "./ui/moving-border";
+// import { MovingBorderButton } from "./ui/moving-border";
 
 export function Hero() {
   return (
