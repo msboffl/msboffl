@@ -1,6 +1,17 @@
 import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
+import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+
+const geist = Geist({
+  subsets: ["latin"],
+  variable: "--font-geist",
+});
+
+const geist_mono = Geist_Mono({
+  subsets: ["latin"],
+  variable: "--font-geist-mono",
+});
 
 export const metadata: Metadata = {
   title: "Mareedu Saibabu - (msboffl)",
@@ -14,7 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body>
+      <body className={`${geist_mono.variable} font-sans`}>
         <ThemeProvider attribute={"class"}>{children}</ThemeProvider>
       </body>
     </html>
