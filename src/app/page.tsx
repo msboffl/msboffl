@@ -27,7 +27,7 @@ export default function Home() {
       </AuroraBackground>
 
       {/* Sparkcles */}
-      <div className="h-[15rem] w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
+      <div className="h-[20rem] w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
         <h1 className="md:text-7xl text-3xl lg:text-7xl font-bold text-center text-white relative z-20">
           About
         </h1>
