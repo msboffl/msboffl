@@ -2,13 +2,14 @@ import Image from "next/image";
 import msboffl from "/public/mareedu.jpeg";
 import { TbDownload } from "react-icons/tb";
 import { JobRoles } from "./Roles";
-import { SocialIcons } from "./SocialIcons";
+// import { SocialIcons } from "./SocialIcons";
+import { FloatingDockDemo } from "./FloatingDock";
 // import { MovingBorderButton } from "./ui/moving-border";
 
 export function Hero() {
   return (
     <>
-      <section className="relative flex flex-col items-center justify-between px-8 py-3 border-b lg:border-2 border-zinc-500/65 w-screen lg:max-w-6xl xl:max-w-screen-2xl mx-auto left-0 right-0 lg:rounded-2xl bg-zinc-50/50 dark:bg-black backdrop-blur-sm shadow-transparent">
+      <section className="xl:mt-[80px] relative flex flex-col items-center justify-between px-8 py-3 border-b lg:border-2 border-zinc-500/65 w-screen lg:max-w-6xl xl:max-w-screen-2xl mx-auto left-0 right-0 lg:rounded-2xl bg-zinc-50/50 dark:bg-black backdrop-blur-sm shadow-transparent">
         {/* Container with window controls */}
         <div className="relative h-full rounded-lg">
           {/* Window Controls */}
@@ -45,7 +46,8 @@ export function Hero() {
                   range of stacks of Software Engineering that includes Frontend
                   and Backend.
                 </p>
-                <SocialIcons />
+                <FloatingDockDemo />
+                {/* <SocialIcons /> */}
               </div>
             </div>
 
@@ -68,7 +70,7 @@ export function Hero() {
                 >
                   Get Resume
                 </MovingBorderButton> */}
-                <button className="mt-2 flex items-center gap-3 rounded-lg border-2 border-red-650 bg-transparent px-4 py-2 uppercase text-white transition-all duration-300 hover:scale-105 hover:bg-red-650 hover:shadow-lg">
+                <button className="mt-2 flex items-center gap-3 rounded-lg border-2 border-red-650 bg-transparent px-4 py-2 uppercase text-red-650 hover:text-white  dark:text-white transition-all duration-300 hover:scale-105 hover:bg-red-650 hover:shadow-lg">
                   Get Resume
                   <TbDownload size={20} />
                 </button>
